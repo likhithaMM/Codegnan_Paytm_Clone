@@ -1,7 +1,5 @@
 # Paytm Website Clone
 
-This repository contains my internship project at Codegnan, where I built a clone of the main page of the Paytm website using HTML and CSS.
-
 ## Description
 
 The Paytm Website Clone project aims to replicate the main page of the popular digital payment platform, Paytm. The project utilizes HTML and CSS to create a static web page resembling the design and layout of the Paytm homepage.
